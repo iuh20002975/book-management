@@ -93,7 +93,7 @@ const Header = () => {
                         }}>☰</div>
                         <div className='page-header__logo'>
                             <span className='logo'>
-                                <span onClick={() => navigate('/')}> <FaReact className='rotate icon-react' />Hỏi Dân !T</span>
+                                <span onClick={() => navigate('/')}> <FaReact className='rotate icon-react' />SBOOK</span>
 
                                 <VscSearchFuzzy className='icon-search' />
                             </span>
